@@ -1,0 +1,1 @@
+A collection of some technical reports that pertained to experiments I individually ran during my undergraduate mechanical engineering degree. The Key Turner Project was a fundamental design project that is noteable as it was recognised as one of the better projects from my cohort. 
